@@ -1,0 +1,41 @@
+D:\Lab_10\LotteryArchive\LotteryArchive\Model\obj\Debug\net8.0-windows\Model.csproj.AssemblyReference.cache
+D:\Lab_10\LotteryArchive\LotteryArchive\Model\obj\Debug\net8.0-windows\Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab_10\LotteryArchive\LotteryArchive\Model\obj\Debug\net8.0-windows\Model.AssemblyInfoInputs.cache
+D:\Lab_10\LotteryArchive\LotteryArchive\Model\obj\Debug\net8.0-windows\Model.AssemblyInfo.cs
+D:\Lab_10\LotteryArchive\LotteryArchive\Model\obj\Debug\net8.0-windows\Model.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\source\Model\obj\Debug\net8.0-windows\Model.csproj.AssemblyReference.cache
+C:\Users\Кирилл\source\Model\obj\Debug\net8.0-windows\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\source\Model\obj\Debug\net8.0-windows\Model.AssemblyInfoInputs.cache
+C:\Users\Кирилл\source\Model\obj\Debug\net8.0-windows\Model.AssemblyInfo.cs
+C:\Users\Кирилл\source\Model\obj\Debug\net8.0-windows\Model.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\source\Model\bin\Debug\net8.0-windows\Model.deps.json
+C:\Users\Кирилл\source\Model\bin\Debug\net8.0-windows\Model.dll
+C:\Users\Кирилл\source\Model\bin\Debug\net8.0-windows\Model.pdb
+C:\Users\Кирилл\source\Model\obj\Debug\net8.0-windows\Model.dll
+C:\Users\Кирилл\source\Model\obj\Debug\net8.0-windows\refint\Model.dll
+C:\Users\Кирилл\source\Model\obj\Debug\net8.0-windows\Model.pdb
+C:\Users\Кирилл\source\Model\obj\Debug\net8.0-windows\ref\Model.dll
+C:\Users\Кирилл\Desktop\Проги\Model\obj\Debug\net8.0-windows\Model.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\Проги\Model\obj\Debug\net8.0-windows\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\Desktop\Проги\Model\obj\Debug\net8.0-windows\Model.AssemblyInfoInputs.cache
+C:\Users\Кирилл\Desktop\Проги\Model\obj\Debug\net8.0-windows\Model.AssemblyInfo.cs
+C:\Users\Кирилл\Desktop\Проги\Model\obj\Debug\net8.0-windows\Model.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\Проги\Model\obj\Debug\net8.0-windows\Model.dll
+C:\Users\Кирилл\Desktop\Проги\Model\obj\Debug\net8.0-windows\refint\Model.dll
+C:\Users\Кирилл\Desktop\Проги\Model\obj\Debug\net8.0-windows\Model.pdb
+C:\Users\Кирилл\Desktop\Проги\Model\bin\Debug\net8.0-windows\Model.deps.json
+C:\Users\Кирилл\Desktop\Проги\Model\bin\Debug\net8.0-windows\Model.dll
+C:\Users\Кирилл\Desktop\Проги\Model\bin\Debug\net8.0-windows\Model.pdb
+C:\Users\Кирилл\Desktop\Проги\Model\obj\Debug\net8.0-windows\ref\Model.dll
+F:\Всякая всячина\лекции\Model\bin\Debug\net8.0-windows\Model.deps.json
+F:\Всякая всячина\лекции\Model\bin\Debug\net8.0-windows\Model.dll
+F:\Всякая всячина\лекции\Model\bin\Debug\net8.0-windows\Model.pdb
+F:\Всякая всячина\лекции\Model\obj\Debug\net8.0-windows\Model.csproj.AssemblyReference.cache
+F:\Всякая всячина\лекции\Model\obj\Debug\net8.0-windows\Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\Всякая всячина\лекции\Model\obj\Debug\net8.0-windows\Model.AssemblyInfoInputs.cache
+F:\Всякая всячина\лекции\Model\obj\Debug\net8.0-windows\Model.AssemblyInfo.cs
+F:\Всякая всячина\лекции\Model\obj\Debug\net8.0-windows\Model.csproj.CoreCompileInputs.cache
+F:\Всякая всячина\лекции\Model\obj\Debug\net8.0-windows\Model.dll
+F:\Всякая всячина\лекции\Model\obj\Debug\net8.0-windows\refint\Model.dll
+F:\Всякая всячина\лекции\Model\obj\Debug\net8.0-windows\Model.pdb
+F:\Всякая всячина\лекции\Model\obj\Debug\net8.0-windows\ref\Model.dll
