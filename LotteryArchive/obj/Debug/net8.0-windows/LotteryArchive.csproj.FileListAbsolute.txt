@@ -1,0 +1,98 @@
+D:\Lab_10\LotteryArchive\LotteryArchive\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive.csproj.AssemblyReference.cache
+D:\Lab_10\LotteryArchive\LotteryArchive\LotteryArchive\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Lab_10\LotteryArchive\LotteryArchive\LotteryArchive\obj\Debug\net8.0-windows\App.g.cs
+D:\Lab_10\LotteryArchive\LotteryArchive\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive_MarkupCompile.cache
+D:\Lab_10\LotteryArchive\LotteryArchive\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive_MarkupCompile.lref
+C:\Users\Кирилл\source\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive.csproj.AssemblyReference.cache
+C:\Users\Кирилл\source\LotteryArchive\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Кирилл\source\LotteryArchive\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Кирилл\source\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive_MarkupCompile.cache
+C:\Users\Кирилл\source\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive_MarkupCompile.lref
+C:\Users\Кирилл\source\LotteryArchive\bin\Debug\net8.0-windows\LotteryArchive.exe
+C:\Users\Кирилл\source\LotteryArchive\bin\Debug\net8.0-windows\LotteryArchive.deps.json
+C:\Users\Кирилл\source\LotteryArchive\bin\Debug\net8.0-windows\LotteryArchive.runtimeconfig.json
+C:\Users\Кирилл\source\LotteryArchive\bin\Debug\net8.0-windows\LotteryArchive.dll
+C:\Users\Кирилл\source\LotteryArchive\bin\Debug\net8.0-windows\LotteryArchive.pdb
+C:\Users\Кирилл\source\LotteryArchive\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Кирилл\source\LotteryArchive\bin\Debug\net8.0-windows\Model.dll
+C:\Users\Кирилл\source\LotteryArchive\bin\Debug\net8.0-windows\Model.pdb
+C:\Users\Кирилл\source\LotteryArchive\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Кирилл\source\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive.g.resources
+C:\Users\Кирилл\source\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\source\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive.AssemblyInfoInputs.cache
+C:\Users\Кирилл\source\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive.AssemblyInfo.cs
+C:\Users\Кирилл\source\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\source\LotteryArchive\obj\Debug\net8.0-windows\LotteryA.FA291667.Up2Date
+C:\Users\Кирилл\source\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive.dll
+C:\Users\Кирилл\source\LotteryArchive\obj\Debug\net8.0-windows\refint\LotteryArchive.dll
+C:\Users\Кирилл\source\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive.pdb
+C:\Users\Кирилл\source\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive.genruntimeconfig.cache
+C:\Users\Кирилл\source\LotteryArchive\obj\Debug\net8.0-windows\ref\LotteryArchive.dll
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\bin\Debug\net8.0-windows\LotteryArchive.exe
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\bin\Debug\net8.0-windows\LotteryArchive.deps.json
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\bin\Debug\net8.0-windows\LotteryArchive.runtimeconfig.json
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\bin\Debug\net8.0-windows\LotteryArchive.dll
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\bin\Debug\net8.0-windows\LotteryArchive.pdb
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\bin\Debug\net8.0-windows\Model.dll
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\bin\Debug\net8.0-windows\Model.pdb
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive_MarkupCompile.cache
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive_MarkupCompile.lref
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive.g.resources
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive.AssemblyInfoInputs.cache
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive.AssemblyInfo.cs
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\obj\Debug\net8.0-windows\LotteryA.FA291667.Up2Date
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive.dll
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\obj\Debug\net8.0-windows\refint\LotteryArchive.dll
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive.pdb
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive.genruntimeconfig.cache
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\obj\Debug\net8.0-windows\ref\LotteryArchive.dll
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\obj\Debug\net8.0-windows\AddParticipantWindow.baml
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\obj\Debug\net8.0-windows\AddParticipantWindow.g.cs
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\obj\Debug\net8.0-windows\StatisticsWindow.baml
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\obj\Debug\net8.0-windows\StatisticsWindow.g.cs
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\obj\Debug\net8.0-windows\CreateLotteryWindow.baml
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\obj\Debug\net8.0-windows\CreateLotteryWindow.g.cs
+C:\Users\Кирилл\Desktop\Проги\LotteryArchive\obj\Debug\net8.0-windows\App.baml
+F:\Всякая всячина\лекции\LotteryArchive\bin\Debug\net8.0-windows\LotteryArchive.exe
+F:\Всякая всячина\лекции\LotteryArchive\bin\Debug\net8.0-windows\LotteryArchive.deps.json
+F:\Всякая всячина\лекции\LotteryArchive\bin\Debug\net8.0-windows\LotteryArchive.runtimeconfig.json
+F:\Всякая всячина\лекции\LotteryArchive\bin\Debug\net8.0-windows\LotteryArchive.dll
+F:\Всякая всячина\лекции\LotteryArchive\bin\Debug\net8.0-windows\LotteryArchive.pdb
+F:\Всякая всячина\лекции\LotteryArchive\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+F:\Всякая всячина\лекции\LotteryArchive\bin\Debug\net8.0-windows\Model.dll
+F:\Всякая всячина\лекции\LotteryArchive\bin\Debug\net8.0-windows\Model.pdb
+F:\Всякая всячина\лекции\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive.csproj.AssemblyReference.cache
+F:\Всякая всячина\лекции\LotteryArchive\obj\Debug\net8.0-windows\AddParticipantWindow.baml
+F:\Всякая всячина\лекции\LotteryArchive\obj\Debug\net8.0-windows\CreateLotteryWindow.baml
+F:\Всякая всячина\лекции\LotteryArchive\obj\Debug\net8.0-windows\GraphsWindow.baml
+F:\Всякая всячина\лекции\LotteryArchive\obj\Debug\net8.0-windows\StatisticsWindow.baml
+F:\Всякая всячина\лекции\LotteryArchive\obj\Debug\net8.0-windows\AddParticipantWindow.g.cs
+F:\Всякая всячина\лекции\LotteryArchive\obj\Debug\net8.0-windows\CreateLotteryWindow.g.cs
+F:\Всякая всячина\лекции\LotteryArchive\obj\Debug\net8.0-windows\GraphsWindow.g.cs
+F:\Всякая всячина\лекции\LotteryArchive\obj\Debug\net8.0-windows\MainWindow.g.cs
+F:\Всякая всячина\лекции\LotteryArchive\obj\Debug\net8.0-windows\StatisticsWindow.g.cs
+F:\Всякая всячина\лекции\LotteryArchive\obj\Debug\net8.0-windows\App.g.cs
+F:\Всякая всячина\лекции\LotteryArchive\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\Всякая всячина\лекции\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive_MarkupCompile.cache
+F:\Всякая всячина\лекции\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive_MarkupCompile.lref
+F:\Всякая всячина\лекции\LotteryArchive\obj\Debug\net8.0-windows\App.baml
+F:\Всякая всячина\лекции\LotteryArchive\obj\Debug\net8.0-windows\MainWindow.baml
+F:\Всякая всячина\лекции\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive.g.resources
+F:\Всякая всячина\лекции\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive.GeneratedMSBuildEditorConfig.editorconfig
+F:\Всякая всячина\лекции\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive.AssemblyInfoInputs.cache
+F:\Всякая всячина\лекции\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive.AssemblyInfo.cs
+F:\Всякая всячина\лекции\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive.csproj.CoreCompileInputs.cache
+F:\Всякая всячина\лекции\LotteryArchive\obj\Debug\net8.0-windows\LotteryA.FA291667.Up2Date
+F:\Всякая всячина\лекции\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive.dll
+F:\Всякая всячина\лекции\LotteryArchive\obj\Debug\net8.0-windows\refint\LotteryArchive.dll
+F:\Всякая всячина\лекции\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive.pdb
+F:\Всякая всячина\лекции\LotteryArchive\obj\Debug\net8.0-windows\LotteryArchive.genruntimeconfig.cache
+F:\Всякая всячина\лекции\LotteryArchive\obj\Debug\net8.0-windows\ref\LotteryArchive.dll
