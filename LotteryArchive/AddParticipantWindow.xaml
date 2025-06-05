@@ -1,0 +1,66 @@
+﻿<Window x:Class="LotteryArchive.Views.AddParticipantWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Title="Добавить/Редактировать участника" Height="300" Width="350" WindowStartupLocation="CenterOwner">
+    <!-- Окно для добавления и редактирования участника. -->
+    <Grid Margin="10">
+        <!-- Основная сетка с отступом. -->
+        <Grid.RowDefinitions>
+            <!-- Определение строк сетки. -->
+            <RowDefinition Height="Auto"/>
+            <!-- Автоматическая высота для первой строки. -->
+            <!-- Поля ввода -->
+            <RowDefinition Height="Auto"/>
+            <!-- Автоматическая высота для второй строки. -->
+            <RowDefinition Height="Auto"/>
+            <!-- Автоматическая высота для третьей строки. -->
+            <RowDefinition Height="Auto"/>
+            <!-- Автоматическая высота для четвёртой строки. -->
+            <RowDefinition Height="*"/>
+            <!-- Оставшееся пространство для пятой строки. -->
+            <!-- Кнопки -->
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <!-- Определение столбцов сетки. -->
+            <ColumnDefinition Width="Auto"/>
+            <!-- Автоматическая ширина для первого столбца. -->
+            <ColumnDefinition Width="*"/>
+            <!-- Оставшееся пространство для второго столбца. -->
+        </Grid.ColumnDefinitions>
+
+        <!-- ФИО -->
+        <Label Grid.Row="0" Grid.Column="0" Content="Имя:" VerticalAlignment="Center"/>
+        <!-- Метка для поля ввода имени. -->
+        <TextBox x:Name="txtFirstName" Grid.Row="0" Grid.Column="1" Margin="5" />
+        <!-- Поле ввода имени участника. -->
+
+        <Label Grid.Row="1" Grid.Column="0" Content="Фамилия:" VerticalAlignment="Center"/>
+        <!-- Метка для поля ввода фамилии. -->
+        <TextBox x:Name="txtLastName"  Grid.Row="1" Grid.Column="1" Margin="5"/>
+        <!-- Поле ввода фамилии участника. -->
+
+        <Label Grid.Row="2" Grid.Column="0" Content="Отчество:" VerticalAlignment="Center"/>
+        <!-- Метка для поля ввода отчества. -->
+        <TextBox x:Name="txtMiddleName" Grid.Row="2" Grid.Column="1" Margin="5"/>
+        <!-- Поле ввода отчества участника. -->
+
+        <!-- Начальный баланс -->
+        <Label Grid.Row="3" Grid.Column="0" Content="Баланс:" VerticalAlignment="Center"/>
+        <!-- Метка для поля ввода начального баланса. -->
+        <TextBox x:Name="txtBalance" Grid.Row="3" Grid.Column="1" Margin="5"/>
+        <!-- Поле ввода начального баланса участника. -->
+
+        <!-- Жадность -->
+        <Label Grid.Row="4" Grid.Column="0" Content="Жадность (0–1):" VerticalAlignment="Center"/>
+        <!-- Метка для поля ввода уровня жадности. -->
+        <TextBox x:Name="txtGreed" Grid.Row="4" Grid.Column="1" Margin="5"/>
+        <!-- Поле ввода жадности участника (от 0 до 1). -->
+
+        <!-- Кнопки -->
+        <StackPanel Orientation="Horizontal" Grid.Row="5" Grid.ColumnSpan="2" HorizontalAlignment="Right" Margin="0,15,0,0">
+            <!-- Панель для кнопок OK и Отмена. -->
+            <Button x:Name="btnOk" Content="ОК" Width="75" Margin="0,0,5,0" Click="BtnOk_Click"/>
+            <!-- Кнопка подтверждения с обработчиком. -->
+            <Button Content="Отмена" Width="75" Click="BtnCancel_Click"/>
+            <!-- Кнопка отмены с обработчиком. -->
+        </StackPanel>
+    </Grid>
+</Window>

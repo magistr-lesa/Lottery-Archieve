@@ -1,0 +1,9 @@
+﻿<Application x:Class="LotteryArchive.App" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:local="clr-namespace:LotteryArchive" StartupUri="MainWindow.xaml">
+    <!-- Определение приложения WPF. -->
+    <Application.Resources>
+        <!-- Ресурсы приложения. -->
+        <!-- Конвертер: null → False, not-null → True -->
+        <local:NullToBoolConverter x:Key="NullToBoolConverter"/>
+        <!-- Ресурс конвертера для привязки булевых значений. -->
+    </Application.Resources>
+</Application>

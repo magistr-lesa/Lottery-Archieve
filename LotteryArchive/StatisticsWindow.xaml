@@ -1,0 +1,29 @@
+﻿<Window x:Class="LotteryArchive.Views.StatisticsWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Title="Статистика лотереи" Height="450" Width="700" WindowStartupLocation="CenterOwner">
+    <!-- Окно для отображения статистики лотереи. -->
+    <Grid Margin="10">
+        <!-- Основная сетка с внешним отступом 10. -->
+        <Grid.RowDefinitions>
+            <!-- Определение строк сетки. -->
+            <RowDefinition Height="Auto"/>
+            <!-- Автоматическая высота для панели кнопок. -->
+            <RowDefinition Height="*"/>
+            <!-- Оставшееся пространство для канваса с графиком. -->
+        </Grid.RowDefinitions>
+
+        <!-- Заголовок и Кнопка Save -->
+        <StackPanel Orientation="Horizontal" Grid.Row="0" HorizontalAlignment="Right">
+            <!-- Горизонтальная панель для кнопок «Сохранить» и «Закрыть». -->
+            <Button Content="Сохранить статистику" Click="BtnSave_Click" Width="150" Margin="0,0,10,0"/>
+            <!-- Кнопка «Сохранить статистику» с обработчиком BtnSave_Click. -->
+            <Button Content="Закрыть" Click="BtnClose_Click" Width="75"/>
+            <!-- Кнопка «Закрыть» с обработчиком BtnClose_Click. -->
+        </StackPanel>
+
+        <!-- График -->
+        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+            <!-- Скроллбар для канваса, если график по ширине больше окна. -->
+            <Canvas x:Name="chartCanvas" Height="300" Background="WhiteSmoke" />
+            <!-- Канвас для рисования столбчатой диаграммы статистики. -->
+        </ScrollViewer>
+    </Grid>
+</Window>

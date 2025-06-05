@@ -1,0 +1,64 @@
+﻿<Window x:Class="LotteryArchive.Views.CreateLotteryWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Title="Создать новую лотерею" Height="350" Width="400" WindowStartupLocation="CenterOwner">
+    <!-- Определяет окно для создания новой лотереи. -->
+    <Grid Margin="10">
+        <!-- Основная сетка с внешним отступом 10. -->
+        <Grid.RowDefinitions>
+            <!-- Определение строк сетки. -->
+            <RowDefinition Height="Auto"/>
+            <!-- Автоматическая высота для строки с заголовком. -->
+            <!-- Название -->
+            <RowDefinition Height="Auto"/>
+            <!-- Автоматическая высота для строки с полем названия лотереи. -->
+            <!-- Количество билетов -->
+            <RowDefinition Height="Auto"/>
+            <!-- Автоматическая высота для строки с полем количества билетов. -->
+            <!-- Призовой фонд -->
+            <RowDefinition Height="Auto"/>
+            <!-- Автоматическая высота для строки с полем призового фонда. -->
+            <!-- Список участников -->
+            <RowDefinition Height="*"/>
+            <!-- Оставшееся пространство для строки со списком участников. -->
+            <!-- Кнопки -->
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <!-- Определение столбцов сетки. -->
+            <ColumnDefinition Width="Auto"/>
+            <!-- Автоматическая ширина для левого столбца с метками. -->
+            <ColumnDefinition Width="*"/>
+            <!-- Оставшееся пространство для правого столбца с полями. -->
+        </Grid.ColumnDefinitions>
+
+        <!-- Название лотереи -->
+        <Label Grid.Row="0" Grid.Column="0" Content="Название:" VerticalAlignment="Center" Margin="0,0,5,5"/>
+        <!-- Метка «Название:». -->
+        <TextBox x:Name="txtName" Grid.Row="0" Grid.Column="1" Margin="0,0,0,5"/>
+        <!-- Поле для ввода названия лотереи. -->
+
+        <!-- Количество билетов -->
+        <Label Grid.Row="1" Grid.Column="0" Content="Всего билетов:" VerticalAlignment="Center" Margin="0,0,5,5"/>
+        <!-- Метка «Всего билетов:». -->
+        <TextBox x:Name="txtTotalTickets" Grid.Row="1" Grid.Column="1" Margin="0,0,0,5"/>
+        <!-- Поле для ввода общего количества билетов. -->
+
+        <!-- Призовой фонд -->
+        <Label Grid.Row="2" Grid.Column="0" Content="Призовой фонд:" VerticalAlignment="Center" Margin="0,0,5,5"/>
+        <!-- Метка «Призовой фонд:». -->
+        <TextBox x:Name="txtPrizeFund" Grid.Row="2" Grid.Column="1" Margin="0,0,0,5"/>
+        <!-- Поле для ввода суммы призового фонда. -->
+
+        <!-- Список существующих участников с возможностью множественного выбора -->
+        <Label Grid.Row="3" Grid.Column="0" Content="Выбрать участников:" VerticalAlignment="Top" Margin="0,0,5,5"/>
+        <!-- Метка «Выбрать участников:». -->
+        <ListBox x:Name="lstParticipants" Grid.Row="3" Grid.Column="1" Height="120" SelectionMode="Extended" DisplayMemberPath="FullName"/>
+        <!-- Список участников с множественным выбором и отображением полного имени. -->
+
+        <!-- Кнопки ОК/Отмена -->
+        <StackPanel Grid.Row="4" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,10,0,0">
+            <!-- Горизонтальная панель для кнопок. -->
+            <Button x:Name="btnOk" Content="ОК" Width="75" Margin="0,0,5,0" Click="BtnOk_Click"/>
+            <!-- Кнопка «ОК» с обработчиком BtnOk_Click. -->
+            <Button Content="Отмена" Width="75" Click="BtnCancel_Click"/>
+            <!-- Кнопка «Отмена» с обработчиком BtnCancel_Click. -->
+        </StackPanel>
+    </Grid>
+</Window>

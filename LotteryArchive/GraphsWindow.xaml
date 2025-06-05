@@ -1,0 +1,49 @@
+﻿<Window x:Class="LotteryArchive.GraphsWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Title="Графики потраченного и выигранного" Height="500" Width="800" WindowStartupLocation="CenterOwner">
+    <!-- Окно для отображения графиков «Потрачено» и «Выиграно». -->
+    <Grid Margin="10">
+        <!-- Основная сетка с внешним отступом 10. -->
+        <Grid.RowDefinitions>
+            <!-- Определение строк сетки. -->
+            <RowDefinition Height="Auto"/>
+            <!-- Автоматическая высота для заголовка. -->
+            <RowDefinition Height="*"/>
+            <!-- Оставшееся пространство для области графиков. -->
+        </Grid.RowDefinitions>
+
+        <!-- Заголовок -->
+        <TextBlock Text="Графики: потрачено vs выиграно" FontSize="16" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,0,0,10"/>
+        <!-- Заголовок окна с указанием назначения графиков. -->
+
+        <!-- Две области: слева – «потрачено», справа – «выиграно» -->
+        <Grid Grid.Row="1">
+            <!-- Область для двух столбчатых диаграмм. -->
+            <Grid.ColumnDefinitions>
+                <!-- Определение столбцов сетки. -->
+                <ColumnDefinition Width="*"/>
+                <!-- Оставшееся пространство для первой колонки. -->
+                <ColumnDefinition Width="*"/>
+                <!-- Оставшееся пространство для второй колонки. -->
+            </Grid.ColumnDefinitions>
+
+            <!-- График «Потрачено» -->
+            <GroupBox Header="Потрачено" Margin="5" Grid.Column="0">
+                <!-- Группа для графика «Потрачено». -->
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <!-- Скроллбар для прокрутки, если график по ширине больше окна. -->
+                    <Canvas x:Name="canvasSpent" Height="350" Background="WhiteSmoke"/>
+                    <!-- Канвас для рисования столбчатого графика потраченного. -->
+                </ScrollViewer>
+            </GroupBox>
+
+            <!-- График «Выиграно» -->
+            <GroupBox Header="Выиграно" Margin="5" Grid.Column="1">
+                <!-- Группа для графика «Выиграно». -->
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <!-- Скроллбар для прокрутки, если график по ширине больше окна. -->
+                    <Canvas x:Name="canvasWon" Height="350" Background="WhiteSmoke"/>
+                    <!-- Канвас для рисования столбчатого графика выигранного. -->
+                </ScrollViewer>
+            </GroupBox>
+        </Grid>
+    </Grid>
+</Window>
